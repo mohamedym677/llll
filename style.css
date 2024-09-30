@@ -1,0 +1,62 @@
+body {
+    /* background-color: #001; */
+}
+
+table,
+td,
+th {
+
+    
+    border: solid black 3px;
+    border-collapse: collapse;
+}
+
+table {
+    width: 600px;
+    height: 100px;
+    font-size: 1.3em;
+}
+
+.a {
+    position: relative;
+    left: 405px;
+}
+
+.a {
+    position: relative;
+    left: 405px;
+}
+
+.b {
+    position: relative;
+    left: 450px;
+}
+
+.c {
+    position: relative;
+    left: 414px;
+}
+
+.d {
+    position: relative;
+    left: 418px;
+}
+
+.e {
+    position: relative;
+    left: 363px;
+}
+
+.f {
+    position: relative;
+    left: 393px;
+}
+.g {
+    position: relative;
+    left: 373px;
+}
+
+div table{
+    float: left;
+    margin: 4px;
+}
